@@ -18,10 +18,6 @@ This is a web app that allows users to search for movies and series and get info
 - jQuery
 - OMDb API
 
-## Demo
-
-![Demo of Movie Series Search Web App](demo.gif)
-
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/sattiyans/movie-series-search.git`
