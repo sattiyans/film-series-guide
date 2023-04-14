@@ -60,6 +60,8 @@ function loadMovieDetails() {
       const movieDetails = await result.json();
       // console.log(movieDetails);
       displayMovieDetails(movieDetails);
+      
+      movieSearchBox.focus();  // when the details of movies are shown you want to your search bar again to be focused.
     });
   });
 }
